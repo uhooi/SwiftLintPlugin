@@ -1,0 +1,2 @@
+# SwiftLintPlugin
+SwiftLint Command Plugin
